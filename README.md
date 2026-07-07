@@ -25,13 +25,13 @@ Place the dataset inside the `dataset` directory following the structure below:
 
 ```text
 dataset/
-└── train
+└── train/
     ├── data.yaml
-    ├── images
+    ├── images/
     │   ├── image_001.png
     │   ├── image_002.png
     │   └── ...
-    └── labels
+    └── labels/
         ├── image_001.txt
         ├── image_002.txt
         └── ...
