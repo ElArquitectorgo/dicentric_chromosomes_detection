@@ -1,0 +1,7 @@
+channels: 1
+names:
+  0: n_d
+  1: d
+path: folds/test/dataset
+train: train
+val: val

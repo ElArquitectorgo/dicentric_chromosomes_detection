@@ -1,0 +1,12 @@
+imgsz: 640
+epochs: 300
+patience: 50
+degrees: 0.0
+translate: 0.0
+scale: 0.0
+flipud: 0.0
+fliplr: 0.0
+mosaic: 0.0
+close_mosaic: 0
+cutmix: 0.0
+auto_augment: None

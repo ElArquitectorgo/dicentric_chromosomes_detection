@@ -1,0 +1,4 @@
+imgsz: 640
+epochs: 300
+patience: 50
+auto_augment: autoaugment
